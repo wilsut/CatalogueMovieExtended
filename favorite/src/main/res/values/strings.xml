@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Favorite</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="search">Search</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="up_coming">Up Coming</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="movie_name">Movie TItle</string>
+    <string name="favorite">Favorite</string>
+    <string name="popularity">Popularity: %s</string>
+</resources>

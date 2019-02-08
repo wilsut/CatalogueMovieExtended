@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="change_language_settings">Ubah Bahasa</string>
+    <string name="search">Cari</string>
+    <string name="now_playing">Sedang Tayang</string>
+    <string name="up_coming">Akan Datang</string>
+    <string name="search_movie">Pencarian Film</string>
+    <string name="movie_name">Judul Film</string>
+    <string name="favorite">Favorit</string>
+</resources>

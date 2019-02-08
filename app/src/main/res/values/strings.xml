@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Catalogue Movie Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="search">Search</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="up_coming">Up Coming</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_name">Movie TItle</string>
+    <string name="favorite">Favorite</string>
+    <string name="popularity">Popularity: %s</string>
+    <string name="add_widget">Add widget</string>
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="content_title">Content title</string>
+    <string name="content_text">Content text</string>
+    <string name="subtext">Sub text</string>
+    <string name="daily_reminder">Catalogue Movie missing you!</string>
+    <string name="release_today_reminder">%s has been released today!</string>
+    <string name="reminder_settings">Reminder Settings</string>
+    <string name="title_activity_settings">Reminder Settings</string>
+    <string name="key_daily_reminder">key_daily_reminder</string>
+    <string name="pref_title_daily_reminder">Daily Reminder</string>
+    <string name="pref_summary_daily_reminder">Reminder for return to the app</string>
+    <string name="key_release_reminder">key_release_reminder</string>
+    <string name="pref_title_release_reminder">Release Reminder</string>
+    <string name="pref_summary_release_reminder">Reminder for showing movie that released today</string>
+</resources>
